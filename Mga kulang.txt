@@ -1,0 +1,29 @@
+Search
+ -cart icon -> add to cart text
+ -Header
+
+New Transaction
+ - remove "VAT","Discount"
+ - Move the total amount
+
+Add Discount
+ -Discount(%)->Discount Type, Total Discounted Amount
+
+History Transaction based on transaction number
+
+Daily Sales
+ -dapat kita yung sales ng transanction history
+ -invoice PID Date Total Amount Action(View,Delete)receipt.
+ Print
+  -Sample Report
+
+Cashier
+ -Warning for low stocks
+
+Add New Product
+ -Remove Discount
+ -ID-Product
+
+Supplies
+ - +Add New -> Restock button
+
